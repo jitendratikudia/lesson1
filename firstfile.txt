@@ -1,0 +1,12 @@
+total 44
+drwxr-xr-x 2 tj tj 4096 Apr 29 16:45 Desktop
+drwxr-xr-x 2 tj tj 4096 Apr 29 16:45 Documents
+drwxr-xr-x 2 tj tj 4096 Apr 29 16:45 Downloads
+drwxr-xr-x 3 tj tj 4096 Jun 22 12:28 gitlearning
+drwxr-xr-x 2 tj tj 4096 Apr 29 16:45 Music
+drwxr-xr-x 2 tj tj 4096 Apr 29 16:45 Pictures
+drwxr-xr-x 2 tj tj 4096 Apr 29 16:45 Public
+drwxr-xr-x 2 tj tj 4096 Apr 29 16:45 Templates
+drwxr-xr-x 3 tj tj 4096 Jun  7 15:26 test1
+drwxr-xr-x 3 tj tj 4096 Jun  7 15:32 test2
+drwxr-xr-x 2 tj tj 4096 Apr 29 16:45 Videos
